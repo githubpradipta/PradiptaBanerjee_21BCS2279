@@ -1,0 +1,1 @@
+All js file should store here.
